@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Rotation_V type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    -2.23242760e+000 -1.84192133e+000 -5.87954111e-002</data></Rotation_V>
+</opencv_storage>

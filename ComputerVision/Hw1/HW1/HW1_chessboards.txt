@@ -1,0 +1,15 @@
+./calibration/c1.bmp
+./calibration/c2.bmp
+./calibration/c3.bmp
+./calibration/c4.bmp
+./calibration/c5.bmp
+./calibration/c6.bmp
+./calibration/c7.bmp
+./calibration/c8.bmp
+./calibration/c9.bmp
+./calibration/c10.bmp
+./calibration/c11.bmp
+./calibration/c12.bmp
+./calibration/c13.bmp
+./calibration/c14.bmp
+./calibration/c15.bmp
