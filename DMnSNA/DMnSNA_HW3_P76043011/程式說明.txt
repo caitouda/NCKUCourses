@@ -1,0 +1,5 @@
+助教：
+    您好。
+    打開“DMnSNA_HW3_P76043011\src\Decision_Tree”資料夾中的“DataTest.java”運行
+程式，training data和test data在“DMnSNA_HW3_P76043011\data”資料夾中，輸出的結果在“DMnSNA_HW3_P76043011\result.txt”中。
+                                                                           何超越
